@@ -7,17 +7,17 @@ Sushifont is a modification of
 ### Reprtoire
 
 <p align='center'>
-<img src="repertoire.png" width=400px />
+<img src="repertoire.png" />
 </p> 
 
 ### Text
 
 <p align='center'>
-<img src="text.png" width=400px />
+<img src="text.png" />
 </p>
 
 ### Code
 
 <p align='center'>
-<img src="code.png" width=400px />
+<img src="code.png" />
 </p> 
