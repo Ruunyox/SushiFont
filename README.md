@@ -10,12 +10,6 @@ Sushifont is a modification of
 <img src="repertoire.png" />
 </p> 
 
-### Text
-
-<p align='center'>
-<img src="text.png" />
-</p>
-
 ### Code
 
 <p align='center'>
